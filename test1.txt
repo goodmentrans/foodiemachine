@@ -1,0 +1,9 @@
+meta: og:url
+meta: og:image
+meta: zomatocom:location:latitude
+meta: zomatocom:location:longitude
+zomatocom:average_rating
+zomatocom:user_reviews
+zomatocom:caption_one
+al:ios:url
+
